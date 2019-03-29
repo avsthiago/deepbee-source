@@ -229,7 +229,7 @@ def segmentation(img, model):
         img = cv2.resize(img, (6000, 4000))
     
     reflect = cv2.copyMakeBorder(img,184,184,148,148, cv2.BORDER_REFLECT)
-    
+
     pos_x = np.arange(0, 5785,482)
     pos_y = np.arange(0, 3857,482)
     slices = [np.s_[y[0]:y[1],x[0]:x[1]] for x in zip(pos_x, pos_x + 512) for y in zip(pos_y, pos_y + 512)]
