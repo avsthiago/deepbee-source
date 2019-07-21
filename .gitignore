@@ -7,3 +7,7 @@ release/DeepBee/original_images/B 5 3E.JPG
 release/DeepBee/original_images/B 5 9E.JPG
 release/DeepBee/software/model/classification.h5
 release/DeepBee/software/model/segmentaion.h5
+
+data/raw/*
+
+.idea
