@@ -2,7 +2,7 @@
 
 DeepBee is a project that aims to assist in the assessment of honey bee colonies using image processing and machine learning.
 
-###[Demo](https://www.youtube.com/watch?v=W47sMDIS9zc)
+### [Demo](https://www.youtube.com/watch?v=W47sMDIS9zc)
 <div align="center">
   <a href="https://www.youtube.com/watch?v=W47sMDIS9zc"><img src="https://lh3.googleusercontent.com/z17lX9VJWNzTOWUbfbvJckXuMEY6VzJ8D79BpBXXTdQSIOgaiWDDJh5jKDtMocAcaGNOZWrTbEAoCYGxLvOVZnm7TbiqdsAjoBzBhY3xPGGuKIlPk6HetKIoziAS5uYFziDH2OplNdY" alt="Demonstration"></a>
 </div>
