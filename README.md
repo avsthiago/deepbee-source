@@ -92,8 +92,8 @@ Once you have the visualization tool open you can interact with it as follows:
 
 ### Models
 
-* Classification
-* Segmentation
+* [Classification](https://github.com/AvsThiago/DeepBee-source/tree/release-0.1/src/DeepBee/software/model)
+* [Segmentation](https://github.com/AvsThiago/DeepBee-source/tree/release-0.1/src/DeepBee/software/model)
 
 ### Datasets
 
