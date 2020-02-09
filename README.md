@@ -98,10 +98,10 @@ Once you have the visualization tool open you can interact with it as follows:
 ### Datasets
 
 * Classification
-    * Train: images, labels;
-    * Test: images, labels;
+    * Train: [images](https://github.com/AvsThiago/DeepBee-source/tree/release-0.1/src/data), [labels](https://github.com/AvsThiago/DeepBee-source/tree/release-0.1/src/data/resources);
+    * Test: [images](https://github.com/AvsThiago/DeepBee-source/tree/release-0.1/src/data/resources), [labels](https://github.com/AvsThiago/DeepBee-source/tree/release-0.1/src/data/resources);
 * Segmentation
-    * Train + Test
+    * [Train + Test](https://data.mendeley.com/datasets/db35fj73x5/1)
 
 ### Citation
 ```
