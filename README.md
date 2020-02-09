@@ -76,7 +76,7 @@ Once you have the visualization tool open you can interact with it as follows:
 
 ``S`` - Save changes;
 
-``Esq`` - Quit;
+``Esc`` - Quit;
 
 **Exporting the predictions to a CSV file**
 
