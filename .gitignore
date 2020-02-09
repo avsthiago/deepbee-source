@@ -1,12 +1,12 @@
 .vscode/settings.json
-release/DeepBee/original_images/B 5 7D (2).JPG
-release/DeepBee/original_images/A 3 5D.JPG
-release/DeepBee/original_images/B 1 2D.JPG
-release/DeepBee/original_images/B 5 10D.JPG
-release/DeepBee/original_images/B 5 3E.JPG
-release/DeepBee/original_images/B 5 9E.JPG
-release/DeepBee/software/model/classification.h5
-release/DeepBee/software/model/segmentaion.h5
+src/DeepBee/original_images/B 5 7D (2).JPG
+src/DeepBee/original_images/A 3 5D.JPG
+src/DeepBee/original_images/B 1 2D.JPG
+src/DeepBee/original_images/B 5 10D.JPG
+src/DeepBee/original_images/B 5 3E.JPG
+src/DeepBee/original_images/B 5 9E.JPG
+src/DeepBee/software/model/classification.h5
+src/DeepBee/software/model/segmentaion.h5
 
 data/raw/*
 

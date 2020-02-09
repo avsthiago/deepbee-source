@@ -1,6 +1,0 @@
-# Visualization resolution 0 = 1920x1080; 1 = 1280x720
-RESOLUTION: 1
-# Maximum number of samples that each class can have for trainning
-MAX_SAMPLES_CLASS: 50000
-# Number of images processed at once, bigger batches use more memory
-BATCH_SIZE: 50
