@@ -5,9 +5,9 @@ channels:
 dependencies:
   - python=3.6
   - pip
-  - keras
-  - numpy
-  - scipy
+  - keras=2.3
+  - numpy=1.18
+  - scipy=1.4
   - pip:
     - opencv-python==3.4.2.16
-    - tqdm
+    - tqdm=4.42
