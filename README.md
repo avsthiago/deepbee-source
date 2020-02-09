@@ -124,3 +124,5 @@ Abstract: In a scenario of worldwide honey bee decline, assessing colony strengt
 Keywords: Cell classification; Apis mellifera L.; Semantic segmentation; Machine learning; Deep learning; DeepBee software
 
 ```
+
+This research was funded through the 2013-2014 BiodivERsA/FACCE-JPI Joint call for research proposals, with the national funders FCT (Portugal), CNRS (France), and MEC (Spain).
