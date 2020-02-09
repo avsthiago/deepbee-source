@@ -1,4 +1,4 @@
-name: deepbeedev
+name: deepbee
 channels:
   - conda-forge
   - defaults
