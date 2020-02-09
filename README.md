@@ -3,6 +3,8 @@
 DeepBee is a project that aims to assist in the assessment of honey bee colonies using image processing and machine learning.
 
 ### [Demo](https://www.youtube.com/watch?v=W47sMDIS9zc)
+##### Paper: [Automatic detection and classification of honey bee comb cells using deep learning](https://www.sciencedirect.com/science/article/pii/S0168169919307690)
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=W47sMDIS9zc"><img src="https://lh3.googleusercontent.com/z17lX9VJWNzTOWUbfbvJckXuMEY6VzJ8D79BpBXXTdQSIOgaiWDDJh5jKDtMocAcaGNOZWrTbEAoCYGxLvOVZnm7TbiqdsAjoBzBhY3xPGGuKIlPk6HetKIoziAS5uYFziDH2OplNdY" alt="Demonstration"></a>
 </div>
@@ -118,3 +120,5 @@ Abstract: In a scenario of worldwide honey bee decline, assessing colony strengt
 Keywords: Cell classification; Apis mellifera L.; Semantic segmentation; Machine learning; Deep learning; DeepBee software
 
 ```
+
+This research was funded through the 2013-2014 BiodivERsA/FACCE-JPI Joint call for research proposals, with the national funders FCT (Portugal), CNRS (France), and MEC (Spain).
