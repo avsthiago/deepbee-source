@@ -1,0 +1,13 @@
+name: deepbee-part1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - pip
+  - keras=2.3
+  - numpy=1.18
+  - scipy=1.4
+  - pip:
+    - opencv-python==3.4.2.16
+    - tqdm==4.42
