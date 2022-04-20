@@ -352,7 +352,7 @@ def create_detections():
 def load_dict_model(path):
     # gets all files inside the path
     files = os.listdir(path)
-    model = dict([])
+    model = {}
     
     model['model_h5'] = os.path.join(path, list(filter(lambda x: "classification" in x, files))[0])
     
