@@ -179,13 +179,11 @@ def next_image(direction, len_images, index):
     if direction == 'F':
         if index + 1 >= len_images:
             return 0
-        else:
-            return index + 1
+        return index + 1
     else:
         if index - 1 <= -1:
             return len_images - 1
-        else:
-            return index - 1
+        return index - 1
 
 
 def change_mode(mode):
@@ -271,7 +269,7 @@ def process_entries(img_det):
         if k != last_key:
             if k == 27: # Esc close stop
                 return False
-            elif k in CLASSES_KEY:  # Classes
+            if k in CLASSES_KEY:  # Classes
                 OPTION = k
                 change_mode('LABELING_MODE')
             elif k == 32:  # Space Moving image
