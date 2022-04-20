@@ -180,10 +180,9 @@ def next_image(direction, len_images, index):
         if index + 1 >= len_images:
             return 0
         return index + 1
-    else:
-        if index - 1 <= -1:
-            return len_images - 1
-        return index - 1
+    if index - 1 <= -1:
+        return len_images - 1
+    return index - 1
 
 
 def change_mode(mode):
