@@ -436,7 +436,6 @@ def process_entries(img_det):
                 cv2.imshow(img_det[0], img)
         if REFRESH_RECTANGLE:
             img = np.copy(img_bk)
-            # img = adjust_gamma(img, GAMMA/2 if GAMMA > 0 else 0.1)
             img = process_trackbar(img)
             img = draw_circles(img)
             cv2.imshow(img_det[0], draw_rectangle(img))
