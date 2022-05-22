@@ -10,4 +10,4 @@ dependencies:
   - scipy=1.4
   - pip:
     - opencv-python==3.4.2.16
-    - tqdm=4.42
+    - tqdm==4.42
