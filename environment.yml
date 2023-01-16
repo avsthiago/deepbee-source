@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.6
+  - python=3.7
   - pip
   - keras=2.3
   - numpy=1.18
@@ -11,3 +11,5 @@ dependencies:
   - pip:
     - opencv-python==3.4.2.16
     - tqdm==4.42
+    - h5py==2.10.0
+    - Pillow==9.4.0

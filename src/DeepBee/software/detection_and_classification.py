@@ -339,7 +339,7 @@ def find_image_names():
 def create_detections():
     dic_model = load_dict_model(PATH_MODEL)
     images = find_image_names()
-    m_border = load_model(dic_model['border'])
+    m_border = load_model(dic_model['border'], compile=False)
         
     with tqdm(total=len(images)) as j:
         for i in images:

@@ -156,7 +156,7 @@ def create_dataset():
     print('\nLoading detections...')
     with tqdm(total=len(list_im_det)) as t:
         for k, p in enumerate(list_im_det):
-            points = np.load(p[1])[2][:,[0,1,2,4,5,6]].astype(np.int32)
+            points = np.load(p[1], allow_pickle=True)[2][:,[0,1,2,4,5,6]].astype(np.int32)
             points = points[points[:,-1]==1]
             points_h_conf = points[points[:,-2]==1]
             
