@@ -11,3 +11,5 @@ src/DeepBee/software/model/segmentaion.h5
 data/raw/*
 
 .idea
+
+venv
