@@ -9,7 +9,10 @@ src/DeepBee/software/model/classification.h5
 src/DeepBee/software/model/segmentaion.h5
 
 data/raw/*
+notebooks/data/*
 
 .idea
 
 venv
+
+__pycache__/
