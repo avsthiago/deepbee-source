@@ -12,7 +12,13 @@ DeepBee is a project that aims to assist in the assessment of honey bee colonies
 
 ### Notebooks
 
-Preprocessing: 
+Preprocessing: <a target="_blank" href="https://colab.research.google.com/github/avsthiago/deepbee-source/blob/feature/evergreen/notebooks/preprocessing_pipeline.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Cell Detection: <a target="_blank" href="https://colab.research.google.com/github/avsthiago/deepbee-source/blob/feature/demo/notebooks/cells_detection.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 ### Notes
