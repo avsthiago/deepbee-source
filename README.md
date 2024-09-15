@@ -24,6 +24,10 @@ Training Segmentation: <a target="_blank" href="https://colab.research.google.co
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+Segmentation: <a target="_blank" href="https://colab.research.google.com/github/avsthiago/deepbee-source/blob/feature/demo/notebooks/frame_segmentation.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ### Notes
 
 - You need to run the following commands to run this project in a GitHub CodeSpace:
