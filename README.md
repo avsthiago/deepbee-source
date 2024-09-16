@@ -28,6 +28,10 @@ Segmentation: <a target="_blank" href="https://colab.research.google.com/github/
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+Training Classification: <a target="_blank" href="https://colab.research.google.com/github/avsthiago/deepbee-source/blob/feature/demo/notebooks/training_classification.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ### Notes
 
 - You need to run the following commands to run this project in a GitHub CodeSpace:
