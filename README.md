@@ -32,7 +32,7 @@ Training Classification: <a target="_blank" href="https://colab.research.google.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-End-To-End Demo: <a target="_blank" href="https://colab.research.google.com/github/avsthiago/deepbee-source/blob/feature/demo/notebooks/end-to-end.ipynb">
+End-To-End Demo: <a target="_blank" href="https://colab.research.google.com/github/avsthiago/deepbee-source/blob/feature/demo/notebooks/end-to-end-demo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
